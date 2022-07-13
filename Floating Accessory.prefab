@@ -715,7 +715,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   colliders: []
   limitType: 2
-  maxAngleX: 30
+  maxAngleX: 180
   maxAngleXCurve:
     serializedVersion: 2
     m_Curve: []
@@ -865,7 +865,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   colliders: []
   limitType: 2
-  maxAngleX: 90
+  maxAngleX: 180
   maxAngleXCurve:
     serializedVersion: 2
     m_Curve: []
