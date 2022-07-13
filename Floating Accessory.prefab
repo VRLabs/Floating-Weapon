@@ -697,8 +697,8 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobileType: 0
-  immobile: 0
+  immobileType: 1
+  immobile: 1
   immobileCurve:
     serializedVersion: 2
     m_Curve: []
