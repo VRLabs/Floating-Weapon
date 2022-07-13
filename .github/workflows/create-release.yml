@@ -43,6 +43,7 @@ jobs:
         with:
           outputPackagePath: 'Floating_Accessory_${{ env.SOURCE_TAG }}.unitypackage'
           unityProjectPath: '.'
+          packagePath: 'Assets'
           
       - name: Create Release
         uses: softprops/action-gh-release@v1
