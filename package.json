@@ -3,7 +3,7 @@
   "displayName" : "Floating Accessory",
   "version" : "master",
   "unity" : "2019.4",
-  "description" : "A discrete floating object",
+  "description" : "A discrete floating object.",
   "author" : {
     "name" : "VRLabs",
     "email" : "mail@vrlabs.dev",
