@@ -8,7 +8,7 @@
 A discrete floating object.
 
 ## Install guide
- 
+
 "Floating Accessory.prefab" should go to the base of your Unity scene, which will give it base Unity scaling.
 
 Unpack the prefab by right-clicking it.
