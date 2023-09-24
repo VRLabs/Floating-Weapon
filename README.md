@@ -25,8 +25,8 @@ Give your object a floating effect
 
 ## How it works
 
-* Three physbones are used to make an object move smoothly witht the user.
-* A sub animator then moves one physbone up and down to give it a floating effect.
+* Three PhysBones are used to make an object move smoothly with the user.
+* A sub animator then moves one PhysBone up and down to give it a floating effect.
 
 ## Install guide
 
@@ -44,7 +44,7 @@ Give your object a floating effect
 
 ```c++
 Constraints:        6
-Physbones:          3
+PhysBones:          3
 Sub Animators:      1
 ```
 
