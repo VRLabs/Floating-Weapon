@@ -76,7 +76,7 @@ Floating Accessory
 
 ## License
 
-Floating-Accessory is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Floating-Accessory/blob/main/LICENSE).
+Floating Accessory is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Floating-Accessory/blob/main/LICENSE).
 
 ​
 
