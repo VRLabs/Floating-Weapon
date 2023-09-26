@@ -30,6 +30,8 @@ Give your object a floating effect
 
 ## Install guide
 
+https://github.com/VRLabs/Floating-Accessory/assets/76777936/60e3d102-5666-4a67-8eaf-da88546903c6
+
 * Drag & Drop the ``Floating Accessory`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
 * Expand the prefab hierarchy and find ``Floating Target``
