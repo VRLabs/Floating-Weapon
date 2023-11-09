@@ -14,7 +14,7 @@ Give your object a floating effect
 
 ![Alt text]()
 
-### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Floating-Accessory/releases/latest)
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/Floating-Accessory/releases/latest)
 
 <!-- 
 ### 📦 [Add to VRChat Creator Companion]() -->
