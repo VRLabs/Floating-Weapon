@@ -18,7 +18,7 @@ namespace VRLabs.FloatingAccessory
 			"package.json"
 		};
 
-		[MenuItem("VRLabs/Damping Constraints")]
+		[MenuItem("VRLabs/Create Instance/Floating Accessory")]
 		public static void FancyPackage()
 		{
 			Type instancerType = AppDomain.CurrentDomain.GetAssemblies()
